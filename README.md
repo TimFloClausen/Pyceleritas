@@ -50,7 +50,7 @@ A list of tutorials can be found [here](SOURCES.md).
 
 ## Planned Features
 
-- [ ] Basic game window
+- [x] Basic game window
 - [ ] Fullscreen mode
 - [ ] Car movement
 - [ ] Camera follows the car
