@@ -67,16 +67,19 @@ A list of tutorials can be found [here](SOURCES.md).
 
 Copyright (c) 2026 Tim Clausen
 
-This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0-only).
+
 See the [LICENSE](LICENSE) file for the full license text.
 
-## Third-party Content
 
-All third-party assets used in this project, including graphics, sound effects, and music, are licensed under terms compatible with the GNU General Public License v2.0 (GPL-2.0).
+# Third-party Content
 
-Please note that individual assets may have their own licenses and attribution requirements. Anyone reusing or redistributing these assets must comply with their respective license terms.
+All third-party assets used in this project, including graphics, code. sound effects, and music, are checked individually for license compatibility with the GNU General Public License v3.0.
 
-A list of all third-party content, including its sources, authors, and licenses, can be found [here](THIRD-PARTY.md).
+Individual assets may have their own licenses and attribution requirements. Anyone reusing or redistributing these assets must comply with their respective license terms.
+
+A list of all third-party content that isn't code (code-credits are directly in the files), including its sources, authors, and licenses, can be found in this document.
+
 
 ## Acknowledgements
 
