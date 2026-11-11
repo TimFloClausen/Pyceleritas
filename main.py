@@ -44,14 +44,11 @@ def fullscreen_on_of(screen, fullscreen, mooniter_size, fullscreen_check):
         
 
     
-def car(X, Y, angle):
+def car(X, Y,):
     car_img = pygame.image.load("assets/car/placeholder_car.png").convert_alpha()
     screen.blit(car_img, (X, Y))
-    rotation = pygame.transform.rotate(car_img, angle)
     
     
-    
-
 
 
 
@@ -67,20 +64,14 @@ while run:
     
     
     
-    car(X, Y, angle)
-    
+    car(X, Y)
+
     if keys[pygame.K_w]:
         X += 0.5
     elif keys[pygame.K_s]:
-        X -= 0.5
+            X -= 0.5
     
-    if keys[pygame.K_d]:
-            angle += 1
-            
-            
-    elif keys[pygame.K_a]:
-        angle -= 1
-        
+  
     
 
     
